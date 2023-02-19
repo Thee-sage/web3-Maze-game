@@ -24,8 +24,7 @@ export default function Home() {
               console.log(nft.attributes);
               const { price, nftAddress, tokenId, marketplaceAddress, seller } =
                 nft.attributes;
-              return (
-              );
+              return m;
             })
           )
         ) : (

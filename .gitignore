@@ -30,3 +30,15 @@ yarn-error.log*
 
 # vercel
 .vercel
+src/pages/maze/vite-project/node_modules/.bin/browserslist-lint
+src/pages/maze/vite-project/node_modules/.bin/esbuild
+src/pages/maze/vite-project/node_modules/.bin/jsesc
+src/pages/maze/vite-project/node_modules/.bin/json5
+src/pages/maze/vite-project/node_modules/.bin/loose-envify
+src/pages/maze/vite-project/node_modules/.bin/nanoid
+src/pages/maze/vite-project/node_modules/.bin/parser
+src/pages/maze/vite-project/node_modules/.bin/resolve
+src/pages/maze/vite-project/node_modules/.bin/rollup
+src/pages/maze/vite-project/node_modules/.bin/semver
+src/pages/maze/vite-project/node_modules/.bin/vite
+src/pages/maze/vite-project/node_modules/.bin/browserslist-lint
